@@ -1,1 +1,30 @@
-* {border: 1px solid red;}
+td.tag p {
+    font-family: monospace;
+    margin: 0.5rem;
+    text-align: center;
+}
+
+td.tag p span {
+    background-color: lightgray;
+}
+
+th {
+    text-align: center;
+}
+
+th.description {
+    text-align: left;
+}
+
+h3 {
+    color: firebrick ;
+    margin: 1rem;
+}
+
+thead {
+    border-bottom: 2px solid grey;
+}
+
+table {
+    border-collapse: collapse;
+}
